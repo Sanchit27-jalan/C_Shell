@@ -1,0 +1,15 @@
+exit
+warp ~
+warp ..
+ls -a
+ls
+peek -a
+peek
+exit
+ls
+warp OSN
+peek
+warp ..
+peek
+peek -a
+peek
