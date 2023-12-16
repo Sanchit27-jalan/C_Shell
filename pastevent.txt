@@ -1,15 +1,15 @@
 exit
-warp ~
-warp ..
-ls -a
-ls
-peek -a
-peek
+iMan close
+iMan open
+iMan sleep
 exit
-ls
-warp OSN
+peek -la
+peek -al
 peek
+ls
 warp ..
+peek -al
 peek
 peek -a
-peek
+exit
+warp ~
