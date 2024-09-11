@@ -1,15 +1,15 @@
-exit
-iMan close
+git add .
+git status
+ls
+exit
+./a.out
+make
+ls
+activities
+sleep 100
+ls
+sleep 100&
+exit
+iMan close
 iMan open
 iMan sleep
-exit
-peek -la
-peek -al
-peek
-ls
-warp ..
-peek -al
-peek
-peek -a
-exit
-warp ~
